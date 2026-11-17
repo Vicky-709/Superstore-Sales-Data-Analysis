@@ -1,0 +1,46 @@
+Superstore Sales Analysis 📊
+
+About the Project
+
+A Python-based data analysis project using the Superstore dataset to explore sales, profit, customer behavior and regional performance.
+
+Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+Key Analysis
+
+- Sales and profit analysis
+- Category and sub-category performance
+- Regional sales analysis
+- Top 10 products and customers
+- Discount impact on profit
+- Loss-making transactions
+
+Key Findings
+
+- Technology generated the highest category sales and profit.
+- West was the top-performing region.
+- Tables, Bookcases and Supplies had negative overall profit.
+- Overall profit margin was approximately 12.47%.
+
+Dataset
+
+- 9,994 records
+- 21 columns
+- Excel format
+
+How to Run
+
+1. Download the repository.
+2. Install dependencies:
+   "pip install pandas numpy openpyxl"
+3. Open "Superstore_Analysis.ipynb" in Jupyter Notebook.
+4. Run all cells.
+
+Conclusion
+
+This project demonstrates practical data cleaning, exploratory data analysis and business insights using Python.
